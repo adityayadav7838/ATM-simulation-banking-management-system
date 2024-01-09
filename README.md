@@ -1,1 +1,2 @@
 # ATM-simulation-banking-management-system
+Developed a comprehensive ATM-Simulation (banking management system) using Java, demonstrating proficiency in object-oriented programming, database management, and user interface design. Implemented core banking functionalities like account creation, deposits, withdrawals, and balance inquiries. Showcased strong analytical and problem-solving skills in handling complex financial transactions and ensuring data integrity.
